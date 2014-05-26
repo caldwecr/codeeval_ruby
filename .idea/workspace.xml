@@ -22,40 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="multiples_of_number.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiples_of_number.rb">
+      <file leaf-file-name="largest_sum.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/largest_sum.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="141" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state line="22" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.4520548" vertical-offset="0" max-vertical-offset="730">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lower.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lower.rb">
+      <file leaf-file-name="largest_sum_test_data.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/largest_sum_test_data.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="3" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+            <state line="1" column="12" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lower_test_data.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lower_test_data.txt">
+      <file leaf-file-name="largest_sum_test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/largest_sum_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="18" selection-start="67" selection-end="67" vertical-scroll-proportion="0.04109589" vertical-offset="0" max-vertical-offset="730">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiple_of_number_test_data.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiple_of_number_test_data.txt">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="5" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.5555556" vertical-offset="0" max-vertical-offset="105">
+            <state line="48" column="16" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1170">
               <folding />
             </state>
           </provider>
@@ -90,6 +78,13 @@
         <option value="$PROJECT_DIR$/multiples_of_number.rb" />
         <option value="$PROJECT_DIR$/lower.rb" />
         <option value="$PROJECT_DIR$/lower_test_data.txt" />
+        <option value="$PROJECT_DIR$/bit_compare_test_data.txt" />
+        <option value="$PROJECT_DIR$/bit_compare.rb" />
+        <option value="$PROJECT_DIR$/sum_primes_tests/largest_sum.rb" />
+        <option value="$PROJECT_DIR$/larget_sum_test.rb" />
+        <option value="$PROJECT_DIR$/largest_sum_test_data.txt" />
+        <option value="$PROJECT_DIR$/largest_sum_test.rb" />
+        <option value="$PROJECT_DIR$/largest_sum.rb" />
       </list>
     </option>
   </component>
@@ -150,6 +145,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -251,6 +251,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32849604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -262,7 +263,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899868" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -387,9 +387,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mofn_test.rb">
+    <entry file="file://$PROJECT_DIR$/lower_test_data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="20" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+        <state line="2" column="18" selection-start="67" selection-end="67" vertical-scroll-proportion="0.04109589" vertical-offset="0" max-vertical-offset="730">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lower.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="3" selection-start="0" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit_compare.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="245" selection-end="245" vertical-scroll-proportion="0.16438356" vertical-offset="0" max-vertical-offset="730">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit_compare_test_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="14" selection-end="14" vertical-scroll-proportion="0.020547945" vertical-offset="0" max-vertical-offset="730">
           <folding />
         </state>
       </provider>
@@ -399,28 +420,42 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="5" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.5555556" vertical-offset="0" max-vertical-offset="105">
+        <state line="1" column="5" selection-start="10" selection-end="10" vertical-scroll-proportion="0.021337127" vertical-offset="0" max-vertical-offset="703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mofn_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="20" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multiples_of_number.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="141" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state line="10" column="0" selection-start="141" selection-end="291" vertical-scroll-proportion="0.20547946" vertical-offset="0" max-vertical-offset="730">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lower.rb">
+    <entry file="file://$PROJECT_DIR$/largest_sum_test_data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+        <state line="1" column="12" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lower_test_data.txt">
+    <entry file="file://$PROJECT_DIR$/largest_sum_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="67" selection-end="67" vertical-scroll-proportion="0.04109589" vertical-offset="0" max-vertical-offset="730">
+        <state line="48" column="16" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/largest_sum.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.4520548" vertical-offset="0" max-vertical-offset="730">
           <folding />
         </state>
       </provider>
