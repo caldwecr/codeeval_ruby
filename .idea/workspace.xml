@@ -22,10 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="largest_sum.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/largest_sum.rb">
+      <file leaf-file-name="detecting_cycles.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detecting_cycles.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.4520548" vertical-offset="0" max-vertical-offset="730">
+            <state line="31" column="76" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detecting_cycles_test_data.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/detecting_cycles_test_data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="31" selection-start="109" selection-end="109" vertical-scroll-proportion="0.061643835" vertical-offset="0" max-vertical-offset="730">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detecting_cycles_test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detecting_cycles_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="22" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -85,6 +103,10 @@
         <option value="$PROJECT_DIR$/largest_sum_test_data.txt" />
         <option value="$PROJECT_DIR$/largest_sum_test.rb" />
         <option value="$PROJECT_DIR$/largest_sum.rb" />
+        <option value="$PROJECT_DIR$/detecting_cycles_test.rb" />
+        <option value="$PROJECT_DIR$/detected_cycles_test_data.txt" />
+        <option value="$PROJECT_DIR$/detecting_cycles.rb" />
+        <option value="$PROJECT_DIR$/detecting_cycles_test_data.txt" />
       </list>
     </option>
   </component>
@@ -425,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mofn_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="20" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/multiples_of_number.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="141" selection-end="291" vertical-scroll-proportion="0.20547946" vertical-offset="0" max-vertical-offset="730">
@@ -453,9 +468,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mofn_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="20" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/largest_sum.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.4520548" vertical-offset="0" max-vertical-offset="730">
+        <state line="17" column="0" selection-start="249" selection-end="368" vertical-scroll-proportion="0.34931508" vertical-offset="0" max-vertical-offset="730">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detecting_cycles_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="22" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detecting_cycles.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="76" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detecting_cycles_test_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="31" selection-start="109" selection-end="109" vertical-scroll-proportion="0.061643835" vertical-offset="0" max-vertical-offset="730">
           <folding />
         </state>
       </provider>
